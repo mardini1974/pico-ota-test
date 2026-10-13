@@ -2,7 +2,7 @@
 # app.py - initial version
 import time
 
-VERSION = "1.0.0"
+VERSION = "1.0.1"
 
 def run():
     print("OTA TEST")
