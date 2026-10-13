@@ -1,15 +1,13 @@
-# app.py - version 1.0.0
+
+# app.py - initial version
 import time
 
 VERSION = "1.0.0"
 
 def run():
-    print("Application version:", VERSION)
-
-    # Startup self-test
-    time.sleep(2)
-    confirm()
+    print("OTA TEST")
+    print("Running version:", VERSION)
 
     while True:
-        print("Running version", VERSION)
+        print("Pico application:", VERSION)
         time.sleep(5)
