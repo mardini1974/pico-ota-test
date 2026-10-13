@@ -1,13 +1,17 @@
-
-# app.py - initial version
 import time
+from machine import Pin
 
-VERSION = "1.0.1"
+VERSION = "1.0.2"
+led = Pin("LED", Pin.OUT)
 
 def run():
-    print("OTA TEST")
+    for i in range(3):
+        led.on()
+        time.sleep(0.3)
+        led.off()
+        time.sleep(0.3)
+
     print("Running version:", VERSION)
 
     while True:
-        print("Pico application:", VERSION)
         time.sleep(5)
