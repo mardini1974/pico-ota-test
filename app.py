@@ -1,7 +1,7 @@
 import time
 from machine import Pin
 
-VERSION = "1.0.3"
+VERSION = "1.0.4"
 led = Pin("LED", Pin.OUT)
 
 def run():
