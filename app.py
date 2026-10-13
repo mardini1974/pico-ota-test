@@ -1,10 +1,9 @@
-
 # app.py - version 1.0.0
 import time
 
 VERSION = "1.0.0"
 
-def run(confirm):
+def run():
     print("Application version:", VERSION)
 
     # Startup self-test
