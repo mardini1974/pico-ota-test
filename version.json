@@ -1,6 +1,6 @@
-
 {
   "version": "1.0.4",
-  "description": "First Pico W OTA test",
-  "file": "app.py"
+  "file": "app.py",
+  "sha256": "7bd0962509eeb6634e70bc8d3dcac900d6535dc16261415718d640942f92d081",
+  "signature": "94f4d3be311809382fa2e0eb991c8bef3ef74904b3656ee1c1c8ec00421a5bb7"
 }
