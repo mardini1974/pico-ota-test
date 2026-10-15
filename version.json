@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.6",
   "file": "app.py",
-  "sha256": "97d8b2d942beb8faacbcd5f389e527eadbed0597484beb8c59e41c92cd013fb6",
-  "signature": "ef36ca68e3b087d6d36bc7324e1bc57ddf64ab5e3518cae807950cd06add9986"
+  "sha256": "563e0d1f658295c699780ec93b4ab6e542aced909c68d9e0558c8c6a20a768ca",
+  "signature": "931f7330ebcf674fc9847b947293549e18dd5ffe451d5abcbf3c2d9f848707e1"
 }
