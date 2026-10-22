@@ -1,6 +1,10 @@
 {
-  "version": "1.0.6",
-  "file": "app.py",
-  "sha256": "563e0d1f658295c699780ec93b4ab6e542aced909c68d9e0558c8c6a20a768ca",
-  "signature": "931f7330ebcf674fc9847b947293549e18dd5ffe451d5abcbf3c2d9f848707e1"
+  "format": "KDM-GITHUB-OTA-1",
+  "project": "kalmeijer-pico-w",
+  "release": 7,
+  "version": "1.0.7",
+  "file": "applications/a24ca8cc1edf251e4f0c6bb71ef6a4e81164cae0f27e33682887c7a5504b409c.py",
+  "size": 10846,
+  "sha256": "a24ca8cc1edf251e4f0c6bb71ef6a4e81164cae0f27e33682887c7a5504b409c",
+  "signature": "c954270a690a956a1c03e8ad801147bdbb2eaff4522b2a3961fdc8e152ad4ee9"
 }

@@ -1,0 +1,2 @@
+# Signed payload hashes cover exact bytes; disable newline conversion.
+applications/*.py -text
