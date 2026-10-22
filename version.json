@@ -1,10 +1,10 @@
 {
   "format": "KDM-GITHUB-OTA-1",
   "project": "kalmeijer-pico-w",
-  "release": 7,
-  "version": "1.0.7",
-  "file": "applications/a24ca8cc1edf251e4f0c6bb71ef6a4e81164cae0f27e33682887c7a5504b409c.py",
+  "release": 8,
+  "version": "1.0.8",
+  "file": "applications/84355ef1d7cf20ec37634885b71e7852fb687b99ffb48a04b59ec782f5123525.py",
   "size": 10846,
-  "sha256": "a24ca8cc1edf251e4f0c6bb71ef6a4e81164cae0f27e33682887c7a5504b409c",
-  "signature": "c954270a690a956a1c03e8ad801147bdbb2eaff4522b2a3961fdc8e152ad4ee9"
+  "sha256": "84355ef1d7cf20ec37634885b71e7852fb687b99ffb48a04b59ec782f5123525",
+  "signature": "169781bd5467211bb4de350c1c5109fc68f91cc8a8a9650b598adbffd2ff2720"
 }
