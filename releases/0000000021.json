@@ -1,0 +1,12 @@
+{
+  "format": "KDM-GITHUB-OTA-1",
+  "project": "kalmeijer-pico-w",
+  "release": 21,
+  "version": "1.1.0",
+  "file": "applications/b71a3a64f629ad1d4eab1b635ac8897ee783ec34f89108d447ebc8eec50faab2.py",
+  "size": 11264,
+  "sha256": "b71a3a64f629ad1d4eab1b635ac8897ee783ec34f89108d447ebc8eec50faab2",
+  "signature": "cd9b4358fcb0a8687dd15233dc1238a579a0a3a841e25b91c9026eacfc2f915f",
+  "issue_date": "2026-10-23",
+  "issued_at": "2026-10-23T13:10:54.326734+02:00"
+}
